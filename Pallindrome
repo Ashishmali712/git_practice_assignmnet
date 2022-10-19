@@ -1,0 +1,12 @@
+ let str="abba";
+ let N=4;
+ let bag="";
+  for(i=N-1;i>=0;i--){
+      bag+=i;
+  }
+  if(bag==str){
+      console.log("Yes");
+  }
+  else{
+      console.log("No");
+  }
