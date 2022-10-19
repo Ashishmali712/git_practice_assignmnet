@@ -9,3 +9,4 @@ if (bag == str) {
 } else {
   console.log("No");
 }
+//errors are removed from the programm
